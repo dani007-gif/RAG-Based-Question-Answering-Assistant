@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+venvt/
+*.pyc
+.env
+data/chroma_db/
+
+# Environment — never commit real credentials
+.env
+
+# Data — keep structure, ignore content
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/eval_questions.json
+!data/raw/hr_handbook_sample.md
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

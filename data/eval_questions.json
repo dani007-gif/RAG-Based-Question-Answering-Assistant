@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the vacation policy?",
+    "relevant_sources": ["hr_handbook.pdf", "vacation_policy.pdf"]
+  },
+  {
+    "question": "How many days of paid leave do employees receive?",
+    "relevant_sources": ["hr_handbook.pdf"]
+  },
+  {
+    "question": "What are the password requirements?",
+    "relevant_sources": ["security_policy.pdf", "it_guidelines.pdf"]
+  },
+  {
+    "question": "What is the remote work policy?",
+    "relevant_sources": ["remote_work_policy.pdf", "hr_handbook.pdf"]
+  },
+  {
+    "question": "How do I request equipment?",
+    "relevant_sources": ["it_guidelines.pdf", "onboarding_guide.pdf"]
+  }
+]
