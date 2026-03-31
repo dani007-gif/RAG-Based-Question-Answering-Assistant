@@ -248,7 +248,3 @@ python -m src.evaluation.evaluator --benchmark data/eval_questions.json
 - Deterministic fallback: *"I could not find a reliable answer in the indexed documents."*
 
 ---
-
-## 📄 License
-
-MIT
